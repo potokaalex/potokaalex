@@ -11,6 +11,6 @@
   <img width="550" src="https://github-readme-stats.vercel.app/api?username=Kot-Alenya&show_icons=true&theme=codeSTACKr">
 </div>
 
-<p align="center"> 
+<h4 align="center"> 
   My e-mail: nevskial686@gmail.com
-</p>
+</h4>
