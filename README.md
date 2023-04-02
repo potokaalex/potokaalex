@@ -12,5 +12,5 @@
 </div>
 
 <p align="center"> 
-  My e-mail address: nevskial686@gmail.com
+  My e-mail: nevskial686@gmail.com
 </p>
