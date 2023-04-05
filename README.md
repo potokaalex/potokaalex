@@ -10,7 +10,3 @@
 <div align="center">
   <img width="550" src="https://github-readme-stats.vercel.app/api?username=Kot-Alenya&show_icons=true&theme=codeSTACKr">
 </div>
-
-<h4 align="center"> 
-  My e-mail: nevskial686@gmail.com
-</h4>
