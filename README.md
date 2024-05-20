@@ -8,5 +8,5 @@
 </h3>
 
 <div align="center">
-  <img width="550" src="https://github-readme-stats.vercel.app/api?username=Kot-Alenya&show_icons=true&theme=codeSTACKr">
+  <img width="550" src="https://github-readme-stats.vercel.app/api?username=potokaalex&show_icons=true&theme=codeSTACKr">
 </div>
