@@ -1,10 +1,10 @@
 <h1 align="center"> 
   Hi visitor
-  <img src="https://github.com/Kot-Alenya/Kot-Alenya/blob/main/Cat_Greeting.gif" height="32"/>
+  <img src="https://github.com/Kot-Alenya/Kot-Alenya/blob/main/Cat_Greeting.gif" width="48"/>
 </h1> 
 
 <h3 align="center"> 
-  I`m C# programmer and unity developer
+  I`m unity developer
 </h3>
 
 <div align="center">
